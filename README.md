@@ -4,4 +4,4 @@
 
 
 
-![Portfolio Image](https://github.com/satyamkumar420/Portfolio/blob/main/assests/img/PorfolioImage.png)
+![Portfolio Image](https://github.com/satyamkumar420/Portfolio/blob/main/assests/img/PortfolioImage.png)
