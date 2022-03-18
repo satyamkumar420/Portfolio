@@ -1066,6 +1066,7 @@ body.light-theme {
     .home_handle {
         width: 290px;
         height: 400px;
+        border-radius: 10rem 10rem 1rem 1rem;
     }
 
     .home_img {
