@@ -350,6 +350,7 @@ body.light-theme {
 
 .home_img {
     width: 160px;
+    border-radius: 20px;
 }
 
 .home_handle {
